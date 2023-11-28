@@ -10,7 +10,7 @@ Selv om jeg hovedsakelig har fokusert på front-end utvikling, har jeg også opp
 
 For å gi dere et bedre innblikk i mine ferdigheter og tidligere arbeid, inkluderer jeg en lenke til min portefølje: [ZanderVJ-Kodehode Portefølje](https://zandervj-kodehode.github.io/Portfolio/)
 
-![Zander Valen Johansen]((https://avatars.githubusercontent.com/u/131156556?v=4))
+![Zander Valen Johansen](https://avatars.githubusercontent.com/u/131156556?v=4)
 
 
 <!--
