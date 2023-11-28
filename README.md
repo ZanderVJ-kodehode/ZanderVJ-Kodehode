@@ -8,9 +8,7 @@ Gjennom NAVs støtte har jeg muligheten til å være i praksis frem til april, m
 
 Selv om jeg hovedsakelig har fokusert på front-end utvikling, har jeg også opparbeidet meg en viss kompetanse innen back-end. Jeg er villig til å lære mer og tilpasse meg etter deres behov.
 
-For å gi dere et bedre innblikk i mine ferdigheter og tidligere arbeid, inkluderer jeg en lenke til min portefølje: [ZanderVJ-Kodehode Portefølje](https://zandervj-kodehode.github.io/Portfolio/)
-
-![Zander Valen Johansen](https://avatars.githubusercontent.com/u/131156556?v=4)
+For å gi dere et bedre innblikk i mine ferdigheter og tidligere arbeid, inkluderer jeg en lenke til min portefølje: https://zandervj-kodehode.github.io/Portfolio/
 
 
 <!--
