@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Zander Valen Johansen's Profil</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
@@ -24,50 +25,6 @@
         </div>
     </div>
 </body>
-
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #ffab00 3px solid;
-        }
-        header a {
-            color: #ffab00;
-            text-decoration: none;
-        }
-        header h1 {
-            float: left;
-            margin: 0;
-        }
-        header nav {
-            float: right;
-            margin-top: 10px;
-        }
-        header nav a {
-            margin-left: 20px;
-        }
-        .profile-pic {
-            max-width: 150px;
-            border-radius: 50%;
-        }
-        .about {
-            margin: 15px 0;
-        }
-    </style>
-    
 </html>
 
 
