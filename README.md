@@ -1,13 +1,9 @@
 
 
-# Hei der! 😄
-### Jeg er Zander Valen Johansen fra Haugesund.
-Jeg er på utkikk etter en praktikantplass i IT, klar for å anvende mine voksende ferdigheter i et dynamisk miljø. 
-Min reise inn i teknologiens verden startet nylig etter å ha gått over fra tømrerarbeid på grunn av allergier. 
-De siste seks månedene har jeg skjerpet mine IT-ferdigheter gjennom Kodehode-kurset via NAV.
-Selv om jeg er ny i feltet, er jeg entusiastisk over å lære og bidra. Med støtte fra NAV, er jeg tilgjengelig for en praktikantplass frem til april, med lønn subsidiert. 
-Jeg har hovedsakelig konsentrert meg om front-end utvikling, men har også ferdigheter innen back-end. Jeg er fleksibel og ivrig etter å utvide min ekspertise for å møte deres behov. 
-Mine tekniske ferdigheter inkluderer HTML, CSS, JavaScript, samt erfaring med Figma, React, Node.js, og jeg bruker VS Code som mitt utviklingsverktøy.
+# Hei 😄
+### jeg er Zander Valen Johansen fra Haugesund
+Jeg er nylig omskolert til IT fra tømreryrket gjennom Kodehode-kurset. Til tross for min korte erfaring, har jeg allerede skaffet meg kompetanse innen front-end utvikling. Jeg har tilegnet meg ferdigheter i HTML, CSS, JavaScript, og har god kjennskap til Figma, React, Node.js, og VS Code. Jeg trives spesielt godt med arbeidet i front-end, og er særlig begeistret for CSS og Figma.
+Utenom koding, nyter jeg RPG-spill og VR, som jeg mener tilbyr det beste innen spillverdenen. Jeg ser frem til å høre fra dere 😄
 
 
 
