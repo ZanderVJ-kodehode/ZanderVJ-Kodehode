@@ -3,7 +3,7 @@
 # Hei 😄
 ### jeg er Zander Valen Johansen fra Haugesund
 Jeg er nylig omskolert til IT fra tømreryrket gjennom Kodehode-kurset. Til tross for min korte erfaring, har jeg allerede skaffet meg kompetanse innen front-end utvikling. Jeg har tilegnet meg ferdigheter i HTML, CSS, JavaScript, og har god kjennskap til Figma, React, Node.js, og VS Code. Jeg trives spesielt godt med arbeidet i front-end, og er særlig begeistret for CSS og Figma.
-Utenom koding, nyter jeg RPG-spill og VR, som jeg mener tilbyr det beste innen spillverdenen. Jeg ser frem til å høre fra dere 😄
+Utenom koding, nyter jeg RPG-spill og VR, som jeg mener tilbyr det beste innen spillverdenen. Jeg ser frem til å høre fra dere 😄 
 
 
 
